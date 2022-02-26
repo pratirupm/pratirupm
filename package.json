@@ -1,7 +1,19 @@
 {
   "name": "pratirupm",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratirupm/pratirupm.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pratirupm/pratirupm/issues"
+  },
+  "homepage": "https://github.com/pratirupm/pratirupm#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
